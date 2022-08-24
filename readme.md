@@ -2,10 +2,20 @@ Installation
 // with npm
 npm install socket.io
 
+1:
+![Screenshot (2)](https://user-images.githubusercontent.com/88159702/186468483-2396e9ba-de08-4b5a-b37c-2b90d8d5d3dd.png)
+
+2:
+![Screenshot (1)](https://user-images.githubusercontent.com/88159702/186468453-b593dce6-9d3c-4dde-811c-56c11a40c527.png)
+
+3:
+![Screenshot (3)](https://user-images.githubusercontent.com/88159702/186469315-4f524362-851d-4c08-8a0d-94cdda63da58.png)
+
 // with yarn
 yarn add socket.io
 
 ==> Completeness:
+
 This web-application is made by using Socket.io and basic HTML, CSS. Our project running npm init. The first responsability we need to take care of is creating a web server that serves the HTML, CSS and JavaScript files to our clients. To do so, we'll use Node's integrated http module. We'll create a file named server.js.
 Creating the chat
 We have our Socket.io instance running in the server and our client (the page) connected to it.
